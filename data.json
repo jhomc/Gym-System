@@ -1,1 +1,13 @@
-{"avatar_url":"http://www.google.com","name":"Hydramist","birth":"2021-02-23","gender":"M","services":"Musculação"}
+{
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "http://www.google.com",
+      "name": "Jhonata",
+      "birth": 620265600000,
+      "gender": "M",
+      "services": "Musculação, crossfit",
+      "created_at": 1612231443107
+    }
+  ]
+}
