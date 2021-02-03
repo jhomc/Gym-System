@@ -8,6 +8,15 @@
       "gender": "M",
       "services": "Musculação, crossfit",
       "created_at": 1612231443107
+    },
+    {
+      "id": 2,
+      "avatar_url": "http://www.facebook.com",
+      "name": "Marina",
+      "birth": 758764800000,
+      "gender": "F",
+      "services": "Natação",
+      "created_at": 1612314368032
     }
   ]
 }
