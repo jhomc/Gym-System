@@ -186,3 +186,8 @@ a.button {
     text-align: center;
     text-decoration: none;
 }
+
+#form-delete {
+    margin-top: 8px;
+    background-color: lightcoral;
+}
