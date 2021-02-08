@@ -2,7 +2,7 @@
   "instructors": [
     {
       "id": 1,
-      "avatar_url": "http://www.google.com",
+      "avatar_url": "https://scontent.fbfh4-1.fna.fbcdn.net/v/t1.0-9/97741785_2820660171376018_6475051558252838912_n.jpg?_nc_cat=101&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeH_FxtpZoBOi4YgQa7h-dR6VyEjyfDKNb1XISPJ8Mo1vSc5rzMJ2sLkEK6iVZrfXHORK9MQCaIuZwDuPzjuQ9cu&_nc_ohc=O-kjJn11j2cAX9RxvoF&_nc_ht=scontent.fbfh4-1.fna&oh=144cb465fb8a9fd21ea5cd048554adfb&oe=6047BCBE",
       "name": "Jhonata",
       "birth": 620265600000,
       "gender": "M",
@@ -11,12 +11,21 @@
     },
     {
       "id": 2,
-      "avatar_url": "http://www.facebook.com",
+      "avatar_url": "https://scontent.fbfh4-1.fna.fbcdn.net/v/t1.0-9/96823979_3747564701985131_456263584263962624_n.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGIwCF281tO_Cm4Nnb-GZuCcbCeS7Jt5udxsJ5Lsm3m5_64XLpmukx8WSKdHVjygqZc7kluvBdr49IZIIzx52pT&_nc_ohc=frIGuiDDXYAAX-7d1Sx&_nc_ht=scontent.fbfh4-1.fna&oh=70c94b3f6a5f5c6593aa5bc79d758540&oe=6046DFE2",
       "name": "Marina",
       "birth": 758764800000,
       "gender": "F",
       "services": "Natação",
       "created_at": 1612314368032
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://scontent.fbfh4-1.fna.fbcdn.net/v/t1.0-9/36765341_1757450677687115_2077932459437064192_n.jpg?_nc_cat=108&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeHIgB55xYitxK7RnQ-IWiXa0bwYvSh4Nd_RvBi9KHg13zr7TRlb3mBxzx0bBsBI3RLyfYBIbTnFqvdJSdvWi545&_nc_ohc=a6pUs0_qH0YAX8oSrd4&_nc_ht=scontent.fbfh4-1.fna&oh=8052d02e9327300536abdd70f90771f2&oe=604660BA",
+      "name": "Fabricio",
+      "birth": 1293580800000,
+      "gender": "F",
+      "services": "Escalada de meio fio, Mergulho em aquario",
+      "created_at": 1612739657243
     }
   ]
 }
