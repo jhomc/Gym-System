@@ -1,4 +1,5 @@
 {
+  "members": [],
   "instructors": [
     {
       "id": 1,
@@ -8,15 +9,6 @@
       "gender": "M",
       "services": "Musculação, crossfit",
       "created_at": 1612231443107
-    },
-    {
-      "id": 2,
-      "avatar_url": "https://scontent.fbfh4-1.fna.fbcdn.net/v/t1.0-9/96823979_3747564701985131_456263584263962624_n.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGIwCF281tO_Cm4Nnb-GZuCcbCeS7Jt5udxsJ5Lsm3m5_64XLpmukx8WSKdHVjygqZc7kluvBdr49IZIIzx52pT&_nc_ohc=frIGuiDDXYAAX-7d1Sx&_nc_ht=scontent.fbfh4-1.fna&oh=70c94b3f6a5f5c6593aa5bc79d758540&oe=6046DFE2",
-      "name": "Marina",
-      "birth": 758764800000,
-      "gender": "F",
-      "services": "Natação",
-      "created_at": 1612314368032
     },
     {
       "id": 3,
