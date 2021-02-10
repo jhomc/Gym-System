@@ -1,5 +1,28 @@
 {
-  "members": [],
+  "members": [
+    {
+      "avatar_url": "http://www.google.com",
+      "name": "gabrielli Feminino de melo",
+      "email": "gabriellimeloc@gmail.com",
+      "birth": null,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "2",
+      "height": "5",
+      "id": 1
+    },
+    {
+      "avatar_url": "http://www.facebook.com",
+      "name": "gabrielli Feminino de melo",
+      "email": "gabriellimeloc@gmail.com",
+      "birth": 620265600000,
+      "gender": "F",
+      "blood": "A+",
+      "weight": "20",
+      "height": "36",
+      "id": 1
+    }
+  ],
   "instructors": [
     {
       "id": 1,
