@@ -151,7 +151,7 @@ header {
 
 /* FORM */
 
-input {
+input, select {
     width: 100%;
     outline: none;
     color: #555;
@@ -187,7 +187,7 @@ a.button {
     text-decoration: none;
 }
 
-#form-delete {
+#form-delete button {
     margin-top: 8px;
     background-color: lightcoral;
 }

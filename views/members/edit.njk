@@ -3,7 +3,7 @@
 {% block content %}
 
 <div class="card">
-    <section class="avatar" style="background: url(https://source.unsplash.com/collection/9419482/900x900) no-repeat center center / cover"></section>        
+    <section class="avatar" style="background: url({{ member.avatar_url }}) no-repeat center center / cover"></section>        
     
     <section class="details">
         <form method="POST" action="/members?_method=PUT">
@@ -16,11 +16,16 @@
         
         </form>
 
-        <form action="/members?_method=DELETE" method="post">
+        <form id="form-delete" action="/members?_method=DELETE" method="post">
             <input type="hidden" name="id" value={{member.id}}>
-            <button id="form-delete" type="submit">Delete</button>
+            <button type="submit">Delete</button>
         </form>
+
+        {% include 'formdelete.njk'%}
+
     </section>
 </div>
+
+
 
 {% endblock content %}
